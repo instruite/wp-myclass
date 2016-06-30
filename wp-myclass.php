@@ -1,3 +1,4 @@
+<?php 
 /*
 Plugin Name: WP MyClass
 Plugin URI: https://github.com/instruite/wp-myclass
