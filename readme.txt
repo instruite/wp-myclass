@@ -1,5 +1,5 @@
-=== Before After ===
-Plugin Name: WP MyClassr
+=== WP MyClass ===
+Plugin Name: WP MyClass
 Plugin URI: https://github.com/instruite/wp-myclass/
 Description: Custom Classes which I use on my WordPress sites
 Author: instruite
