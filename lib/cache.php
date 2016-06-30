@@ -1,6 +1,6 @@
 <?php
 /* Cache Library */
-namespace Instruite\Lib;
+namespace WP_MYClass\Lib;
 
 class Cache {
 
